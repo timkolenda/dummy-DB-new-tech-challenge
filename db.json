@@ -1,0 +1,68 @@
+{
+  "content": [
+    {
+      "adName": "First Ad",
+      "startDate": "2019-06-26",
+      "template": "Carousel Ad",
+      "repeat": "Weekly",
+      "endDate": "2019/06/20",
+      "id": 1
+    },
+    {
+      "adName": "Second Ad",
+      "startDate": "2019-06-27",
+      "template": "Single Image Ad",
+      "repeat": "Weekly",
+      "endDate": "2019/06/20",
+      "id": 2
+    },
+    {
+      "adName": "Third Ad",
+      "startDate": "2019-06-28",
+      "template": "Single Image Ad",
+      "repeat": "Weekly",
+      "endDate": null,
+      "id": 3
+    },
+    {
+      "adName": "Fourth Ad",
+      "startDate": "2019-06-03",
+      "template": "Carousel Ad",
+      "repeat": "Weekly",
+      "endDate": null,
+      "id": 4
+    },
+    {
+      "adName": "Fifth Ad - Changed",
+      "startDate": "2019-06-20",
+      "template": "Single Image Ad",
+      "repeat": "Monthly",
+      "endDate": null,
+      "id": 5
+    },
+    {
+      "adName": "Sixth Ad",
+      "startDate": "2019-06-11",
+      "template": "Carousel Ad",
+      "repeat": "Daily",
+      "endDate": "2019/06/20",
+      "id": 6
+    },
+    {
+      "adName": "Seventh Ad",
+      "startDate": "2019-07-06",
+      "template": "Single Image Ad",
+      "repeat": "Monthly",
+      "endDate": "2019/06/20",
+      "id": 7
+    },
+    {
+      "adName": "Eighth Ad - Changed",
+      "startDate": "2019-07-03",
+      "template": "Carousel Ad",
+      "repeat": "Monthly",
+      "endDate": null,
+      "id": 8
+    }
+  ]
+}
